@@ -7,7 +7,7 @@ The dashboard provides insights into **booking trends, cancellations, revenue, a
 
 ## 📊 Dashboard Preview
 
-![OLA Dashboard](/https://github.com/SaYan7108/OLA-PROJECT/blob/main/OLA%20DASHBOARD%20.png)
+EXAMPLE: ![OLA Dashboard](/https://github.com/SaYan7108/OLA-PROJECT/blob/main/OLA%20DASHBOARD%20.png)
 
 ---
 
