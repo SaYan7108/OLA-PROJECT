@@ -5,12 +5,6 @@ The dashboard provides insights into **booking trends, cancellations, revenue, a
 
 ---
 
-## 📊 Dashboard Preview
-
-EXAMPLE: ![OLA Dashboard](/https://github.com/SaYan7108/OLA-PROJECT/blob/main/OLA%20DASHBOARD%20.png)
-
----
-
 ## ✨ Key Insights
 
 * 📅 **Time Period Analyzed:** 01 July 2024 – 30 July 2024
