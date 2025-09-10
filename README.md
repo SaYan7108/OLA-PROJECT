@@ -7,7 +7,7 @@ The dashboard provides insights into **booking trends, cancellations, revenue, a
 
 ## 📊 Dashboard Preview
 
-![OLA Dashboard](./
+![OLA Dashboard](./https://github.com/SaYan7108/OLA-PROJECT/blob/main/OLA%20DASHBOARD%20.png)
 
 ---
 
@@ -62,4 +62,3 @@ The dashboard provides insights into **booking trends, cancellations, revenue, a
 ---
 
 
-Do you want me to also add a **📂 Dataset Description section** (tables, columns, sample fields) so recruiters/visitors understand the raw data before it was transformed?
